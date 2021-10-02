@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/linktree/static/css/main.a617e044.chunk.css",
-    "main.js": "/linktree/static/js/main.b6462c11.chunk.js",
-    "main.js.map": "/linktree/static/js/main.b6462c11.chunk.js.map",
-    "runtime-main.js": "/linktree/static/js/runtime-main.ff1bbbbf.js",
-    "runtime-main.js.map": "/linktree/static/js/runtime-main.ff1bbbbf.js.map",
-    "static/js/2.238f879f.chunk.js": "/linktree/static/js/2.238f879f.chunk.js",
-    "static/js/2.238f879f.chunk.js.map": "/linktree/static/js/2.238f879f.chunk.js.map",
-    "static/js/3.abcf356c.chunk.js": "/linktree/static/js/3.abcf356c.chunk.js",
-    "static/js/3.abcf356c.chunk.js.map": "/linktree/static/js/3.abcf356c.chunk.js.map",
+    "main.css": "/linktree/static/css/main.91c0b9c4.chunk.css",
+    "main.js": "/linktree/static/js/main.0e859e1e.chunk.js",
+    "main.js.map": "/linktree/static/js/main.0e859e1e.chunk.js.map",
+    "runtime-main.js": "/linktree/static/js/runtime-main.45991052.js",
+    "runtime-main.js.map": "/linktree/static/js/runtime-main.45991052.js.map",
+    "static/js/2.156870f2.chunk.js": "/linktree/static/js/2.156870f2.chunk.js",
+    "static/js/2.156870f2.chunk.js.map": "/linktree/static/js/2.156870f2.chunk.js.map",
+    "static/js/3.50eaf129.chunk.js": "/linktree/static/js/3.50eaf129.chunk.js",
+    "static/js/3.50eaf129.chunk.js.map": "/linktree/static/js/3.50eaf129.chunk.js.map",
     "index.html": "/linktree/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/linktree/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.238f879f.chunk.js.LICENSE.txt": "/linktree/static/js/2.238f879f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/linktree/static/media/logo.6ce24c58.svg"
+    "static/css/main.91c0b9c4.chunk.css.map": "/linktree/static/css/main.91c0b9c4.chunk.css.map",
+    "static/js/2.156870f2.chunk.js.LICENSE.txt": "/linktree/static/js/2.156870f2.chunk.js.LICENSE.txt",
+    "static/media/Banner3.3a80651c.png": "/linktree/static/media/Banner3.3a80651c.png",
+    "static/media/SPDLOGO.ef6d09cf.png": "/linktree/static/media/SPDLOGO.ef6d09cf.png",
+    "static/media/binaryWorld.08d88dcf.svg": "/linktree/static/media/binaryWorld.08d88dcf.svg",
+    "static/media/kookas.bafe98a2.svg": "/linktree/static/media/kookas.bafe98a2.svg",
+    "static/media/squid.3232c190.svg": "/linktree/static/media/squid.3232c190.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ff1bbbbf.js",
-    "static/js/2.238f879f.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.b6462c11.chunk.js"
+    "static/js/runtime-main.45991052.js",
+    "static/js/2.156870f2.chunk.js",
+    "static/css/main.91c0b9c4.chunk.css",
+    "static/js/main.0e859e1e.chunk.js"
   ]
 }
